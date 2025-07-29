@@ -6,6 +6,6 @@ I am currently focusing on mastering the following tools:
 
 - 📊 **Excel** – *[Explore Projects](./Excel%20Learning)*
 - 📈 **Power BI** – *[Explore Projects](./Power%20BI%20Learning)*
-- 🗄️ **SQL** – *[Explore Projects](./SQL%20Learning/Projects)*
+- 🗄️ **SQL** – *[Explore Projects](./SQL%20Learning/PostgreSQL/Projects/)*
 
 Each folder contains hands-on projects that demonstrate my practical skills and understanding of the tool.
