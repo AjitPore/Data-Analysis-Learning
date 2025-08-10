@@ -16,10 +16,22 @@ Divided into three sections to build core SQL skills:
 
 ---
 
-## 📁 Projects
+## 📁 Project ( Basic )
 
 **Description:**  
-Contains real-time data project on **Data Science Jobs**.  
+Contains a real-time data project on **Data Science Jobs**.  
 Key insights are collected through SQL queries for trend analysis and decision-making.
+
+---
+
+## 📁 Project ( Intermediate )
+
+**Description:**  
+Contains analysis of the **Contoso** dataset.  
+Focuses on applying advanced SQL concepts such as:
+- Complex JOINs and subqueries
+- Window functions
+- CTEs for modular query building
+- Aggregations and grouping for business insights
 
 ---
